@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Saira', sans-serif;
+  color: #041328;
+}
+
+.emeraldStoreLogo {
+  width: 200px;
+  border-radius: 100px;
+}
+
+.toDoList {
+  width: 250px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 10px;
+}
+
+.listItem {
+  margin: 15px;
+}
+
